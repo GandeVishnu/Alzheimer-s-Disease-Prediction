@@ -19,12 +19,25 @@ This project presents a deep learning-based system to **predict the stage of Alz
 ## 💡 Dataset Info
 
 - Source: **ADNI - Alzheimer’s Disease Neuroimaging Initiative**
+-  📁 Dataset Size - ~18,754 Brain MRI images
+
 - Classes:
   -  `Final_AD` (Alzheimer’s Disease)
   - `Final_CN` (Cognitively Normal)
   - `Final_EMCI` (Early Mild Cognitive Impairment)
   - `Final_LMCI` (Late Mild Cognitive Impairment)
   - `Final_MCI` (Mild Cognitive Impairment)
+
+---
+
+
+### 🔑 Password Policy
+
+During sign-up, user passwords must meet the following criteria:
+
+- ✅ At least **one uppercase letter**
+- ✅ At least **one lowercase letter**
+- ✅ At least **one special character** (e.g., `@`, `#`, `$`, `!`)
 
 ---
 
@@ -35,4 +48,4 @@ This project presents a deep learning-based system to **predict the stage of Alz
 - Includes patient details, stage prediction, and confidence.
 
 
-
+---
