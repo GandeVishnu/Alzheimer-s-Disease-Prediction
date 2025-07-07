@@ -30,7 +30,7 @@ This project presents a deep learning-based system to **predict the stage of Alz
 
 ## 📄 Report Generation
 
-- After prediction, users can fill out a form with name, email, and age.
+- After prediction, users can fill out a form with name, age, place and phone number.
 - A PDF diagnosis report is generated and made downloadable.
 - Includes patient details, stage prediction, and confidence.
 
