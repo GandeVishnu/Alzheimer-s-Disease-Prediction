@@ -30,6 +30,19 @@ This project presents a deep learning-based system to **predict the stage of Alz
 
 ---
 
+## 🧪 Classification Results
+
+| Class            | Precision | Recall | F1-Score | Support |
+|------------------|-----------|--------|----------|---------|
+| Final AD JPEG    | 0.93      | 0.95   | 0.94     | 810     |
+| Final CN JPEG    | 0.95      | 0.84   | 0.89     | 1220    |
+| Final EMCI JPEG  | 0.61      | 0.89   | 0.72     | 240     |
+| Final LMCI JPEG  | 0.92      | 0.83   | 0.88     | 72      |
+| Final MCI JPEG   | 0.72      | 0.77   | 0.74     | 233     |
+
+**Test Accuracy**: `87.26%`  
+
+---
 
 ### 🔑 Password Policy
 
