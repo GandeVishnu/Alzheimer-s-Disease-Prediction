@@ -41,6 +41,7 @@ This project presents a deep learning-based system to **predict the stage of Alz
 | Final MCI JPEG   | 0.72      | 0.77   | 0.74     | 233     |
 
 **Test Accuracy**: `87.26%`  
+**Training Accuracy**:`98%`
 
 ---
 
